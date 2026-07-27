@@ -1,0 +1,21 @@
+# Arquivos de profiling
+gmon.out
+
+# Executáveis
+*.exe
+*.out
+
+# Objetos
+*.o
+*.obj
+
+# Bibliotecas
+*.dll
+*.so
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# ZIPs
+*.zip
